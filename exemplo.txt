@@ -1,1 +1,1 @@
-arquivo teste - alteração conflitante da branch main
+Resolução de conflito de merge feito
